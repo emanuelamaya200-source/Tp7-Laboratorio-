@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 17-09-2025 a las 18:26:35
+-- Tiempo de generación: 17-09-2025 a las 20:43:33
 -- Versión del servidor: 10.4.32-MariaDB
 -- Versión de PHP: 8.2.12
 
@@ -44,7 +44,7 @@ CREATE TABLE `persona` (
 
 INSERT INTO `persona` (`NRO_HABIT`, `Provincia`, `Edad`, `Niv_Educ`, `Usa_Com`, `Trabaja`) VALUES
 (1, 'Chaco', 18, 'Secundario', 0, 1),
-(2, 'Newquen', 35, 'Ninguno', 0, 1),
+(2, 'Neuquen', 35, 'Ninguno', 0, 1),
 (3, 'Mendoza', 70, 'Primario', 1, 0),
 (4, 'Cordoba', 73, 'Secundario', 1, 0),
 (5, 'Santa Cruz', 70, 'Ninguno', 0, 1),
